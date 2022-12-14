@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+div{
+	width: 100%;
+	height: 100vh;
+	margin: 30px;
+	display: block;
+}
+img {
+	margin: 20px;
+}
+img.one {
+	width: 5cm;
+	height: 5cm;
+}
+img.four {
+	width: 7cm;
+	height: 7cm;
+}
+img.seven {
+	width: 7.5cm;
+	height: 7.5cm;
+}
